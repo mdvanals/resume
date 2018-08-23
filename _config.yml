@@ -1,6 +1,7 @@
 # Site settings
-title: "Mark Van Alstyne's Resume Template"
-description: "A resume template for Mark and GitHub Pages sites."
+
+title: "Hyde's Resume Template"
+description: "A resume template for Hyde and GitHub Pages sites."
 
 # Build settings
 markdown: kramdown
